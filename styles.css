@@ -661,7 +661,7 @@ body {
 /*Certifications*/
 .certifications {
     padding: 3rem 0;
-    margin-top: 4rem;
+     background: var(--bg-light);
 }
 
 .certifications h3 {
