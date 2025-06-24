@@ -648,6 +648,14 @@ body {
     margin-bottom: 0.5rem;
 }
 
+#jkc {
+    text-align: right;
+}
+
+#jkcG{
+    float: right;
+}
+
 .grade {
     display: inline-block;
     background: var(--gradient-1);
